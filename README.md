@@ -1,6 +1,6 @@
 # Train Scheduler
 
-##Introduction
+## Introduction
 
 A basic application that takes in the following input:
 
@@ -14,14 +14,14 @@ The mentioned user input is then pushed to firebase for data consistency. With t
 * The next train time arrival
 * How many minutes there are until the above arrival time
 
-##Still Under Construction
+## Still Under Construction
 A few things still need to be done:
 
 * aesthetic styling
 * validation of user input
 * user authentication
 
-#Outro
+## Outro
 I am still learning so I focused on the logic and functionality aspects primarily. As time comes, I will learn more and continue to update this application to become more well-rounded and professional. Thanks for taking a look, any constructive criticism will be well appreciated!
 
 
